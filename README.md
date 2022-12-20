@@ -1,1 +1,1 @@
-# GET YOUR API KEY [HERE](https://steamcommunity.com/dev/apikey)
+# GET YOUR STEAM API KEY STEAM[HERE](https://steamcommunity.com/dev/apikey)
